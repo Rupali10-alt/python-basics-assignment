@@ -1,2 +1,2 @@
-# python-basics-assignment
+# python assignments
 python basics assignment
